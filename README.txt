@@ -140,3 +140,4 @@ Pada kedua query, rata-rata waktu eksekusi PostgreSQL lebih rendah daripada Mong
 Urnikienė, et al. (2026). *Comparative Read Performance Analysis of PostgreSQL and MongoDB in E-Commerce: An Empirical Study of Filtering and Analytical Queries*. Big Data and Cognitive Computing, 10(2), Article 66.
 
 DOI: https://doi.org/10.3390/bdcc10020066
+
