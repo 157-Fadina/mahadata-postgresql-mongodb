@@ -1,0 +1,9 @@
+```text
+pandas
+numpy
+scipy
+matplotlib
+psycopg2-binary
+pymongo
+openpyxl
+```
